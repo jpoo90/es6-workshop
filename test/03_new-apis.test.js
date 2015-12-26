@@ -19,7 +19,7 @@ describe.only(`New API's on ES6`, () => {
     });
   });
 
-  describe.only(`Array`, () => {
+  describe(`Array`, () => {
     it(`should be able to take an array-like object and convert it into an array`, () => {
       var obj = {length: 3, 0: 'a', 1: 'b', 2: 'c'};
       // this is even more handy with a NodeList like that returned from document.querySelector
