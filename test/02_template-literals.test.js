@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only('Template Literals', () => {
+describe('Template Literals', () => {
   it('should support string interpolation', () => {
     // construct a string from the person object using template literal string interpolation
     const person = {
