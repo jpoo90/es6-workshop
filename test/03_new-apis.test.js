@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only(`New API's on ES6`, () => {
+describe(`New API's on ES6`, () => {
   describe(`String`, () => {
     it(`should be easier to determine whether a string includes another`, () => {
       const sentence = 'It was the best of times. It was the worst of times';
