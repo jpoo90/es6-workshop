@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only('Object Literal', () => {
+describe('Object Literal', () => {
   it('can use shorthand for property names', () => {
 
     function createMonster(name, power) {
