@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-describe.only('ES6 Function Parameters', () => {
+describe('ES6 Function Parameters', () => {
   describe('Default Values', () => {
     it('can be triggered when the incoming argument is undefined', () => {
 
