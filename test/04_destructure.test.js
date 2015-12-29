@@ -2,7 +2,7 @@
 
 import {expect} from 'chai';
 
-describe.only('Destructuring', () => {
+describe('Destructuring', () => {
 
   describe('with Objects', () => {
 
