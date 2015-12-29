@@ -15,7 +15,7 @@ import _ from 'lodash';
 
 import {expect} from 'chai';
 
-describe.only('ES6 Modules', () => {
+describe('ES6 Modules', () => {
   it('can import Mathy', () => {
 
     // I DID THIS ONE FOR YOU!
