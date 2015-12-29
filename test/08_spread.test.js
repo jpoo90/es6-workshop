@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only(`Spread operator ...`, () => {
+describe(`Spread operator ...`, () => {
   it(`should be able to call a function and spread the arguments`, () => {
     const args = ['a', 'b', 'c'];
     let calls = 0;
