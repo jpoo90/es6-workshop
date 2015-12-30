@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only('Arrow Functions', () => {
+describe('Arrow Functions', () => {
 
   it('can replace traditional functions', () => {
 
