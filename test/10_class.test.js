@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only('Classes', () => {
+describe('Classes', () => {
 
   it('has a constructor for initialization', ()=> {
 
