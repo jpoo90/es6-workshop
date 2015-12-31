@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 
-describe.only('SETS', () => {
+describe('SETS', () => {
 
   it('has an add method and a has method', ()=> {
 
